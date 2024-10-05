@@ -1,0 +1,51 @@
+body {
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.article-one,
+.article-two {
+    border: black solid 10px;
+    text-align: center;
+    border-color: chocolate;
+
+
+}
+
+.article-two {
+    margin: 5px;
+
+
+}
+
+.header {
+    color: white;
+    background-color: #15c66b9e;
+    text-align: center;
+    font-family: Sixtyfour Convergence;
+
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.article-date {
+    font-style: italic;
+
+}
+
+.article-author,
+.article-date {
+    color: grey;
+}
+
+#footer {
+    background-color: #15c66b9e;
+    color: white;
+    text-align: center;
+}
+
+.react-portal {
+    color: black;
+}
